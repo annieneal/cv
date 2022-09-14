@@ -1,0 +1,210 @@
+.body {
+    margin: 0;
+    
+}
+
+.top {
+   background-color: #E5E9EC; 
+   padding: 20px 0 20px 0;
+   text-align: center;
+   font-family: 'Playfair Display', serif;
+   position: relative;
+}
+
+.middle {
+    background-color: #DDCAD9;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.bottom {
+   background-color: #E5E9EC;
+   text-align: center;
+   font-family: 'Playfair Display', serif;
+   font-weight: bold;
+}
+
+.row {
+   width: 50%;
+   margin: 50px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.column {
+   display: inline-block;
+}
+
+.img1 {
+   width: 50%;
+} 
+
+ .left {
+   float: left;
+   width: 50%;
+}
+ 
+ .right {
+    width: 50%;
+   
+ }
+
+ ul li {
+   list-style-type: none;
+ }
+
+ dt {
+   display: inline-block;
+ }
+ 
+ .img2 {
+   float: left;
+   width: 50%;
+}
+
+.experienceList {
+   width: 50%;
+}
+
+.skillSet {
+   float: left;
+   width: 50%;
+}
+
+.img3 {
+   width: 50%;
+}
+
+.contact {
+   background-color: #DDCAD9;
+   font-family: 'Playfair Display', serif;
+   text-align: center;
+   
+}
+
+.contactForm {
+   background-color: #DDCAD9;
+   padding: 10px 20px 200px 20px;
+   font-family: 'Playfair Display', serif;
+   text-align: center;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: none;
+    color: darkmagenta;
+}
+
+h2 {
+    font-family: 'Playfair Display SC', serif;
+    color: darkorchid;
+    font-size: 26px;
+}
+
+h3 {
+    color:dodgerblue;
+}
+
+label {
+   font-family: 'Playfair Display', serif;
+}
+
+p {
+   font-family: 'Playfair Display', serif;
+}
+
+a:link { 
+    text-decoration: none; 
+    color:blueviolet;
+}
+a:visited { 
+    text-decoration: none;
+    color: violet;
+ }
+a:hover { 
+    text-decoration: underline;
+    color:blueviolet;
+ }
+a:active { 
+    text-decoration: none;
+    color:blueviolet;
+ }
+
+ .linkButton {
+    padding: 10px;
+    margin: 0 0 5px 0;
+    background-color: #E5E9EC; 
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+ }
+
+ hr {
+   width: 50%;
+   margin:auto;
+    border-image: linear-gradient(to left, turquoise, greenyellow) 1 0;
+ }
+
+ #bottomDivide {
+   width: 100%;
+ }
+
+ .stadium {
+    width:100%;
+ }
+
+
+ input {
+   font-family: 'Playfair Display SC', serif;
+ }
+
+ #copyright {
+   padding: 0 0 5px 0;
+   text-align: center;
+ }
+
+ #headshot {
+   border-radius: 100px;
+ }
+
+ #singleFlower {
+   position: absolute;
+   top: 200px;
+   left: 100px;
+   height: 200px;
+ }
+
+ #flowers {
+   position: absolute;
+   top: 350px;
+   right: 100px;
+   width:auto;
+   height: 250px;
+ }
+
+.leftText {
+   display: block;
+   float: left;
+   line-height: 30px;
+}
+
+.rightInput {
+   position: relative;
+   display: block;
+   float: left;
+   line-height: 30px;
+   align-content: left;
+   
+}
+
+.contactRow {
+   width:25%;
+   margin: 50px;
+   margin-left: auto;
+   margin-right: auto;
+}
